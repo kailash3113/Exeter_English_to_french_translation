@@ -1,0 +1,3 @@
+Current values:
+NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+NotebookApp.rate_limit_window=3.0 (secs)
